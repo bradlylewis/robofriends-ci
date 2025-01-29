@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aneagoie.github.io/robofriends-pwa",
+  "homepage": "https://bradlylewis.github.io/robofriends-pwa",
   "jest": {
     "snapshotSerializers": [
       "enzyme-to-json/serializer"
@@ -14,8 +14,8 @@
     "fetch-mock": "^11.1.1",
     "gh-pages": "^6.1.1",
     "nock": "^13.5.5",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-redux": "^9.1.2",
     "react-scripts": "^5.0.1",
     "redux": "^5.0.1",
